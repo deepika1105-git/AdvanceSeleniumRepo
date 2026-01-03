@@ -8,4 +8,8 @@ public class Abhi {
 	public void D_method() {
 		System.out.println("so what...?");
 	}
+	
+	public void A_method() {
+		System.out.println("..........");
+	}
 }
