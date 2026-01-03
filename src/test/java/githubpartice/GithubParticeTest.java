@@ -6,7 +6,7 @@ public class GithubParticeTest {
 	@Test
 	public void githubParticeTest()
 	{
-		System.out.println("Hi github");
+		System.out.println("Hi github!!");
 		System.out.println(System.getProperty("city"));
 	}
 
