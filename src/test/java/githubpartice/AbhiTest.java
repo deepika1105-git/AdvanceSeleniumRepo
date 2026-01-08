@@ -18,4 +18,9 @@ public class AbhiTest {
 	public void A_methodTest() {
 		System.out.println("..........");
 	}
+	
+	@Test
+	public void S_methodTest() {
+		System.out.println("...SAI.......");
+	}
 }
